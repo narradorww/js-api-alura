@@ -1,19 +1,9 @@
 {
   "profile": [
     {
-      "nome": "felipe",
+      "nome": "bo",
       "email": "felipe@alura.com",
       "id": 1
-    },
-    {
-      "nome": "rodrigo",
-      "email": "rodrigo.anst@gmail.com",
-      "id": 2
-    },
-    {
-      "nome": "Rejane Vargas Pimenta",
-      "email": "raja@alura.com",
-      "id": 3
     }
   ]
 }
